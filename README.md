@@ -78,7 +78,7 @@ Output: Churn (Yes/No)
 
 ## 📸 Screenshots
 ### 🏠 Home Page
-![Home Page](static/images/homw_page.png)
+![Home Page](static/images/home_page.png)
 ### 🔍 Prediction Output
 ![Prediction](static/images/prediction.png)
 
