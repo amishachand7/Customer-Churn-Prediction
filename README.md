@@ -29,6 +29,7 @@ Customer-Churn-Prediction/
 │-- app.py                  # Flask backend for serving predictions
 │-- README.md               # Project documentation
 
+```
 ---
 
 ## ⚙️ Installation
