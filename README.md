@@ -1,4 +1,3 @@
-# Customer-Churn-Prediction
 # 📊 Customer Churn Prediction
 
 ![Flask App](https://img.shields.io/badge/Flask-Application-blue.svg) ![ML Model](https://img.shields.io/badge/Machine%20Learning-Churn%20Prediction-green.svg)
@@ -24,21 +23,24 @@ Customer-Churn-Prediction/ │-- static/ │ ├── styles.css # Styling for 
 ---
 
 ## ⚙️ Installation
-1️⃣ **Clone the repository**  
+### 1️⃣ **Clone the repository**
 ```bash
 git clone https://github.com/amishachand7/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
-2️⃣ ****Create a virtual environment****
-```bash
+### 2️⃣ **Create a virtual environment**
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
-3️⃣ ****Install dependencies****
+### 3️⃣ **Install dependencies**
+
+---
 
 ## 🚀 Running the App
 Start the Flask app using:
 python app.py
 Then, open http://127.0.0.1:5000/ in your browser.
+
+---
 
 ## 📊 Model Details
 Model: Machine Learning Classifier
@@ -55,14 +57,7 @@ Geography (France, Germany, Spain)
 Gender (Male, Female)
 Output: Churn (Yes/No)
 
-## 📸 Screenshots
-Home Page
-![image](https://github.com/user-attachments/assets/e41bb40e-debb-41fb-8206-b02ec2475c81)
-Prediction
-![image](https://github.com/user-attachments/assets/b7f5527e-f4ff-459d-ba47-316821fc8123)
+---
 
-🤝 Contributing
+## 🤝 Contributing
 Feel free to fork this repo, make improvements, and submit a pull request! 🚀
-
-📜 License
-This project is licensed under the MIT License.
