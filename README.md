@@ -34,19 +34,25 @@ Customer-Churn-Prediction/
 
 ## ⚙️ Installation
 ### 🛠 1️⃣ Clone the Repository
+```plaintext
 git clone https://github.com/amishachand7/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
+```
 ### 🛠 2️⃣ Create a Virtual Environment
+```plaintext
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
+```
 ### 🛠 3️⃣ Install Dependencies
 
 ---
 
 ## 🚀 Running the App
 Start the Flask app using:
+```plaintext
 python app.py
+```
 Then, open http://127.0.0.1:5000/ in your browser.
 
 ---
