@@ -28,35 +28,29 @@ Customer-Churn-Prediction/
 │-- Customer_Churn_Prediction.pkl  # Trained ML model
 │-- app.py                  # Flask backend for serving predictions
 │-- README.md               # Project documentation
-⚙️ Installation
-🛠 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+
+---
+
+## ⚙️ Installation
+### 🛠 1️⃣ Clone the Repository
 git clone https://github.com/amishachand7/Customer-Churn-Prediction.git
 cd Customer-Churn-Prediction
-🛠 2️⃣ Create a Virtual Environment
-bash
-Copy
-Edit
+### 🛠 2️⃣ Create a Virtual Environment
 python -m venv venv
 source venv/bin/activate  # On macOS/Linux
 venv\Scripts\activate     # On Windows
-🛠 3️⃣ Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-🚀 Running the App
-Start the Flask app using:
+### 🛠 3️⃣ Install Dependencies
 
-bash
-Copy
-Edit
+---
+
+## 🚀 Running the App
+Start the Flask app using:
 python app.py
 Then, open http://127.0.0.1:5000/ in your browser.
 
-📊 Model Details
+---
+
+## 📊 Model Details
 Model Used: Machine Learning Classifier
 
 🔹 Features Used:
@@ -73,13 +67,15 @@ Model Used: Machine Learning Classifier
 
 Output: Churn (Yes/No)
 
-📸 Screenshots
-🏠 Home Page
+---
 
+## 📸 Screenshots
+### 🏠 Home Page
+### 🔍 Prediction Output
 
-🔍 Prediction Output
+---
 
-
-🤝 Contributing
+### 🤝 Contributing
 🚀 Feel free to fork this repo, make improvements, and submit a pull request!
+
 
